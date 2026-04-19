@@ -107,7 +107,8 @@ As a **Virtual Assistant (Operations-focused)**, I:
 
 ### 📷 Preview  
 
-![Quarterly Goal Tracker](./screenshot.png)
+<img width="759" height="775" alt="Goal Tracking Dashboard" src="https://github.com/user-attachments/assets/97789d6e-6ac0-41c8-bf9f-67a0bafbbe09" />
+
 
 ---
 
